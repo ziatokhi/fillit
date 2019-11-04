@@ -9,6 +9,7 @@
                 "-o",
                 "a.out", // executable
                 "*.c",
+                "-g",
 
                            ],
             "type": "shell",
