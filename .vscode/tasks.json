@@ -8,10 +8,7 @@
             "args": [
                 "-o",
                 "a.out", // executable
-                "*.c", // main file
-                "-g",
-                "-I",
-                "libft/*.c",
+                "*.c",
 
                            ],
             "type": "shell",
